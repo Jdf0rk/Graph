@@ -1,0 +1,25 @@
+**
+** Programme de test des algorithmes de graphe.
+**
+
+Nom du fichier .map a utiliser ? midip
+Fichier utilisee : Maps/midip.map.gz
+
+Voulez-vous une sortie graphique (0 = non, 1 = oui) ? 0
+Fichier lu : 150827 sommets, 196477 aretes, 26429 descripteurs.
+
+MENU
+
+0 - Quitter
+1 - Composantes Connexes
+2 - Plus court chemin standard
+3 - Plus court chemin A-star
+4 - Cliquer sur la carte pour obtenir un numero de sommet.
+5 - Charger un fichier de chemin (.path) et le verifier.
+6 - Covoiturage
+
+Votre choix ? 3
+Numero du sommet d'origine ? 42335
+Numero du sommet destination ? 4358
+Run PCC-Star de 0:42335 vers 0:4358
+En temps(0) ou distance(1)?
